@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FIGWebResSvc>
+<SvcHeader>
+<txnId>632610147661</txnId>
+<tspVdrId>111</tspVdrId>
+<tspAuth/>
+<txnOrigin>OV</txnOrigin>
+<respCode>00</respCode>
+<respDesc>SUCCESS</respDesc>
+</SvcHeader>
+<TxnInfo>
+<pan>60698520025009024018</pan>
+<procCode>PC0018</procCode>
+<txnDateTime>20161121101123</txnDateTime>
+<mcc>6012</mcc>
+<posEntryMode>019</posEntryMode>
+<posCode>00</posCode>
+<acqId>606985</acqId>
+<rrn>632610147661</rrn>
+<terminalId>000350222 </terminalId>
+<caId>BOM00000350222 </caId>
+<bankCode>BOM</bankCode>
+<caLocn>Bartronics INDIA LTD</caLocn>
+<terminalData/>
+<agentId>13200002 </agentId>
+<serviceChrg/>
+<txnMode>CIF</txnMode>
+<narration/>
+<txnHmac>95bdc787e49b2efa39d6970cf53d805f37000448fe57df742c08866f1caea743</txnHmac>
+</TxnInfo>
+<ServiceInfo>
+<SSSRegRes>
+<accountNum>25009024018</accountNum>
+<agentId>13200002</agentId>
+<cif>15021075461</cif>
+<contributionAmt>2852</contributionAmt>
+<contributionFrequency>Q</contributionFrequency>
+<custId>15021075461</custId>
+<custType>CIF</custType>
+<customerName>ALLAUDDIN ABDULKARIM SHAIKH</customerName>
+<errRemarks/>
+<insuranceCompany>BOM</insuranceCompany>
+<policyNum/>
+<pranNum/>
+<refNum>15021075461</refNum>
+<schemeEndDate>326-</schemeEndDate>
+<schemeStartDate>326-</schemeStartDate>
+<terminalId>000350222 </terminalId>
+<transactionDate>3261</transactionDate>
+<transactionId>632610000001</transactionId>
+<transactionTime>0000051102</transactionTime>
+<uidNum/>
+</SSSRegRes>
+</ServiceInfo>
+</FIGWebResSvc>

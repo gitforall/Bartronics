@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FIGWebResSvc>
+<SvcHeader>
+<txnId>632610147651</txnId>
+<tspVdrId>111</tspVdrId>
+<tspAuth/>
+<txnOrigin>OV</txnOrigin>
+<respCode>00</respCode>
+<respDesc>SUCCESS</respDesc>
+</SvcHeader>
+<TxnInfo>
+<pan/>
+<cif>15021075461</cif>
+<procCode>PC0017</procCode>
+<txnDateTime>20161121101133</txnDateTime>
+<mcc>6012</mcc>
+<posEntryMode>019</posEntryMode>
+<posCode>00</posCode>
+<acqId>606985</acqId>
+<rrn>632610147651</rrn>
+<terminalId>000350222</terminalId>
+<caId>BOM00000350222</caId>
+<bankCode>BOM</bankCode>
+<caLocn>Bartronics INDIA LTD</caLocn>
+<terminalData/>
+<agentId>13200002</agentId>
+<serviceChrg/>
+<txnMode>CIF</txnMode>
+<narration/>
+<txnHmac>95bdc787e49b2efa39d6970cf53d805f37000448fe57df742c08866f1caea743</txnHmac>
+</TxnInfo>
+<ServiceInfo>
+<SSSEnqRes>
+<accountNum>25009024018</accountNum>
+<address1>THITE WASTI NEAR SAMARTH HOSPITAL KHARAD</address1>
+<address2>SHIVAJINAGARPUNE                        </address2>
+<agentId>13200002</agentId>
+<alreadyEnrolled/>
+<availableBalance/>
+<branchId>01150</branchId>
+<cif>15021075461</cif>
+<city>PUNE                                    </city>
+<country>IN</country>
+<custId>15021075461</custId>
+<custType>CIF</custType>
+<customerName>ALLAUDDIN ABDULKARIM SHAIKH</customerName>
+<dob>1978-08-02</dob>
+<email/>
+<gender>M</gender>
+<isAuthReq>N</isAuthReq>
+<mobileNum>919372908241</mobileNum>
+<panNum/>
+<pensionAmt/>
+<schemeCode>PMJJBY</schemeCode>
+<terminalId>000350222</terminalId>
+<uidNum/>
+</SSSEnqRes>
+</ServiceInfo>
+</FIGWebResSvc>
