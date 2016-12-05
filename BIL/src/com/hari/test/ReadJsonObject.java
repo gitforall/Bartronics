@@ -19,8 +19,7 @@ HttpURLConnection conn = (HttpURLConnection) url.openConnection();
 conn.setRequestMethod("GET");
 conn.setRequestProperty("Accept", "application/json");
 if (conn.getResponseCode() != 200) {
-throw new RuntimeException(" HTTP error code : "
-+ conn.getResponseCode());
+throw new RuntimeException(" HTTP error code : "+ conn.getResponseCode());
 }
 Scanner scan = new Scanner(url.openStream());
 String entireResponse = new String();
