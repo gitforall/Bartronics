@@ -2,5 +2,46 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/activation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/Appium_java-client-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/extentreports-java-141.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/junit.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/saxon-9.1.0.8-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/selendroid-standalone-0.10.0-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
