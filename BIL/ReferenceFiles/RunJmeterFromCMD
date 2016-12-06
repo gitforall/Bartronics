@@ -1,0 +1,1 @@
+jmeter -n -t D:\Hari\Selenium\apache-jmeter-3.1\jmx\NonGUI.jmx -l D:\Hari\Selenium\apache-jmeter-3.1\test
