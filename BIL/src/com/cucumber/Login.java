@@ -20,17 +20,19 @@ public class Login {
 		driver.get("http://192.168.1.190/sgst");
 	}
 	
-	@When("^I try to login with valid credentials$")
-	public void I_try_to_login_with_valid_credentials() throws Throwable {
+	//@When("^I try to login with valid credentials$")
+	@When("^I try to login with valid credentials \"(.*)\" and \"(.*)\"$")
+	public void I_try_to_login_with_valid_credentials(String username, String password) throws Throwable {
 		
-		driver.findElement(By.name("UserName")).sendKeys("admin");
-		driver.findElement(By.name("Password")).sendKeys("admin12");
+		driver.findElement(By.name("UserName")).sendKeys(username);
+		driver.findElement(By.name("Password")).sendKeys(password);
 		
 	}
 
 	@Then("^application should login$")
 	public void application_should_login() throws Throwable {
 		driver.findElement(By.id("loginbtn")).click();
+		System.out.println("ok");
 	}
 
 }

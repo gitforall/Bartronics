@@ -44,7 +44,7 @@
 	<classpathentry kind="lib" path="D:/Hari/Selenium/Working_Jars/testng-xslt-maven-plugin-test-0.0.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cobertura-2.1.1.jar"/>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-core-1.1.2.jar" sourcepath="C:/Users/harinath.salamaddur/.m2/repository/info/cukes/cucumber-core/1.1.2/cucumber-core-1.1.2-sources.jar"/>
 	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-java-1.1.2.jar"/>
 	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-junit-1.1.2.jar"/>
 	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-jvm-deps-1.0.3.jar"/>
