@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1456" started-at="2016-12-05T08:51:12Z" finished-at="2016-12-05T08:51:13Z">
+  <suite name="Default suite" duration-ms="3976" started-at="2016-12-13T10:39:14Z" finished-at="2016-12-13T10:39:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1456" started-at="2016-12-05T08:51:12Z" finished-at="2016-12-05T08:51:13Z">
-      <class name="com.hari.test.ReadJsonObject">
-        <test-method status="PASS" signature="aptTesting()[pri:0, instance:com.hari.test.ReadJsonObject@1a10788]" name="aptTesting" duration-ms="1443" started-at="2016-12-05T14:21:12Z" finished-at="2016-12-05T14:21:13Z">
+    <test name="Default test" duration-ms="3976" started-at="2016-12-13T10:39:14Z" finished-at="2016-12-13T10:39:18Z">
+      <class name="com.hari.test.PageLoadingTime">
+        <test-method status="PASS" signature="pageloadtime()[pri:0, instance:com.hari.test.PageLoadingTime@dca536]" name="pageloadtime" duration-ms="3958" started-at="2016-12-13T16:09:14Z" finished-at="2016-12-13T16:09:18Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- aptTesting -->
-      </class> <!-- com.hari.test.ReadJsonObject -->
+        </test-method> <!-- pageloadtime -->
+      </class> <!-- com.hari.test.PageLoadingTime -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

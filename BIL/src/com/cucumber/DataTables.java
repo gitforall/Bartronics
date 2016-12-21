@@ -41,6 +41,9 @@ public class DataTables {
 			    driver.findElement(By.name("Password")).sendKeys(data.get(0).get(1));
 
 			    driver.findElement(By.id("Login")).click();
+			  
+			    
+			    
 	}
 
 	@Then("^Message displayed Login Successfully$")
