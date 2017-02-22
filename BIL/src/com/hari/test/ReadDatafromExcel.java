@@ -1,8 +1,11 @@
 package com.hari.test;
 
 import java.io.File;
+
+import org.openqa.selenium.firefox.FirefoxProfile;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+
 import jxl.Cell;
 import jxl.Sheet;
 import jxl.Workbook;
@@ -12,7 +15,7 @@ public class ReadDatafromExcel {
 	public String Excel_path = (System.getProperty("user.dir") + "\\src\\TestData\\Testdata.xls");
 
 	@DataProvider(name = "DP1")
-	public Object[][] createData1() throws Exception {
+	public Object[][] createData() throws Exception {
 
 		// String path = prop.getProperty("Testdata_excel");
 		String path = Excel_path;
@@ -52,6 +55,7 @@ public class ReadDatafromExcel {
 	
 	@Test(dataProvider = "DP1")
 	public void testDataProviderExample(String Category, String Code, String Name, String Satus ) throws Exception {
+	
 	
 		
 	
