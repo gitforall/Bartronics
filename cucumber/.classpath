@@ -22,14 +22,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cobertura-2.1.1.jar"/>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-core-1.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-java-1.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-junit-1.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-jvm-deps-1.0.3.jar"/>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/cucumber-reporting-0.1.0.jar"/>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/gherkin-2.12.1.jar"/>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/junit-4.11.jar"/>
-	<classpathentry kind="lib" path="D:/Hari/Selenium/jars/cucumber/mockito-all-2.0.2-beta.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
