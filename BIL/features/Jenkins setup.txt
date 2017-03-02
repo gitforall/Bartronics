@@ -1,0 +1,27 @@
+1.To install or configure jenkins-->open cmd prompt-->move to jenkins.war file location and run below cmd
+
+java -jar jenkins.war
+
+
+*************************************************************
+
+set classpath=D:\Selenium_workspace\jenkins\Class_files\jenkins;D:\Selenium_workspace\jenkins\lib\*;
+
+
+set classpath=D:\Hari\Sel_workspace\WebDriver\bin;D:\Hari\Sel_workspace\WebDriver\lib\*;
+
+
+java -cp "Class_files;lib/*" org.testng.TestNG testng.xml
+
+
+
+Note : In classpath Class_files folder is according to my build.xml 
+
+
+
+
+password: 0a10b71e9bb44a81ac3d1b2c21bc543e
+*********************************************
+
+
+	
