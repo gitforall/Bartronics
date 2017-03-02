@@ -1,0 +1,50 @@
+1.Run on machine A.
+
+                  java -jar selenium-server-standalone-2.44.0.jar -role hub -port 4444
+
+                  To verify server started safly Check : http://192.168.0.15:4444/grid/console
+
+
+
+2.go to http://192.168.0.15:4444/grid/console on machine B.
+
+               Note:192.168.0.15 ip address of machine A where server had started
+
+
+3.Copy selenium-server-standalone-2.44.0.jar on machine B.
+
+
+4.Go to the path where selenium-server-standalone-2.44.0.jar has placed and run this
+
+               
+               java -jar selenium-server-standalone-2.44.0.jar -role webdriver -hub http://192.168.0.15:4444/grid/register -port 5566
+
+               Note:192.168.0.15 ip address of machine A where server had started
+
+
+5.In this case, the platform is “Windows7” and the browserName is “crome”.We need to give the following for chrome drive:
+
+
+ java -jar selenium-server-standalone-2.44.0.jar -role webdriver -hub http://localhost:4444/grid/register -browser browserName="chrome",version=ANY,platform=VISTA,maxInstances=5 -D webdriver.chrome.driver=D:\H\chrome_driver.exe
+
+
+	        Note:c:/chromedriver.exe path where chrome drve placed on local drive
+
+
+*******************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
